@@ -10,6 +10,6 @@ const tail = function(array) {
   return newArray;
 };
 
-const words = [];
+const words = [0, 1, 2, 3, 4];
 console.log(tail(words));
 assertEqual(words.length, 0);
