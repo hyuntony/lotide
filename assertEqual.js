@@ -6,7 +6,10 @@ const assertEqual = function(actual, expected) {
   }
 };
 
-assertEqual("Lighthouse Labs", "Bootcamp");
-assertEqual("hello", "hello");
-assertEqual(1, 1);
-assertEqual(-3, 0);
+// assertEqual("Lighthouse Labs", "Bootcamp");
+// assertEqual("hello", "hello");
+// assertEqual(1, 1);
+// assertEqual(-3, 0);
+const first = 3;
+const second = 3;
+assertEqual(first, second);
