@@ -6,7 +6,7 @@ const assertEqual = function(actual, expected) {
   }
 };
 
-const countLetters = function(str) { 
+const countLetters = function(str) {
   // declare empty obj named finalObj
   const finalObj = {};
   // loop through str
