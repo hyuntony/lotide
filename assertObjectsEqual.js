@@ -38,6 +38,8 @@ const assertObjectsEqual = function(actual, expected) {
     console.log(`🍎🍎🍎 ${inspect(actual)} object does not match with ${inspect(expected)} object`);
   }
 };
-const obj1 = { a: 2 };
-const obj2 = { a: 3 };
-assertObjectsEqual(obj1, obj2);
+// const obj1 = { a: 2 };
+// const obj2 = { a: 3 };
+// assertObjectsEqual(obj1, obj2);
+
+module.exports = assertObjectsEqual;

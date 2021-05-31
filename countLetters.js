@@ -22,5 +22,6 @@ const countLetters = function(str) {
   return finalObj;
 };
 
-const result = countLetters("lighthouse in the house");
-assertEqual(result["h"], 4);
+// const result = countLetters("lighthouse in the house");
+// assertEqual(result["h"], 4);
+module.exports = countLetters;
