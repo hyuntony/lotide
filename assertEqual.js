@@ -10,6 +10,8 @@ const assertEqual = function(actual, expected) {
 // assertEqual("hello", "hello");
 // assertEqual(1, 1);
 // assertEqual(-3, 0);
-const first = 3;
-const second = 3;
-assertEqual(first, second);
+// const first = 3;
+// const second = 3;
+// assertEqual(first, second);
+
+module.exports = assertEqual;
