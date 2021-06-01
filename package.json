@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@hyuntony/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "library of helpful functions",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/hyuntony/lotide.git"
   },
-  "author": "",
+  "author": "Anthony Kim <ankim90@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hyuntony/lotide/issues"
